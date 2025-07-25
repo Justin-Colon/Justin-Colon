@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Remote Desktop</b>
-  - [How to inspect network traffic between Virtual Machines utilizing command text like "ping" on Power Shell](https://github.com/justin-colon/remote-desktop)
+- <b>VPN Setup and Usage(Proton VPN)</b>
+  - [Observing the link between two computers across an insecure network](https://github.com/justin-colon/VPM-Setup-Usage)
 
  - <b>Wire Shark</b>
-    - [Observe SSH Traffic/ DHCP Traffic/Observe DNS Traffic from Windows 10 VM to Ubuntu VM](https://github.com/justin-colon/wire-shark)
+    - [Observe SSH Traffic/ DHCP Traffic/Observe DNS Traffic between Windows 10 VM and Ubuntu VM](https://github.com/justin-colon/wire-shark)
   
 
 - <b>Microsoft Azure</b>
