@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>VPN Setup and Usage(Proton VPN)</b>
-  - [Observing the link between two computers across an insecure network](https://github.com/justin-colon/VPM-Setup-Usage)
+  - [Observing the link between two computers across an insecure network](https://github.com/justin-colon/VPN-Setup-Usage)
 
  - <b>Wire Shark</b>
     - [Observe SSH Traffic/ DHCP Traffic/Observe DNS Traffic between Windows 10 VM and Ubuntu VM](https://github.com/justin-colon/wire-shark)
