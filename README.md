@@ -6,7 +6,7 @@
   - [Observing the link between two computers across an insecure network](https://github.com/justin-colon/VPN-Setup-Usage)
 
  - <b>Wire Shark</b>
-    - [Observe SSH Traffic/ DHCP Traffic/Observe DNS Traffic between Windows 10 VM and Ubuntu VM](https://github.com/justin-colon/wire-shark)
+    - [Observe SSH Traffic between Windows 10 VM and Ubuntu VM](https://github.com/justin-colon/wire-shark)
   
 
 - <b>Microsoft Azure</b>
